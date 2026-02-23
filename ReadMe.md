@@ -1,5 +1,4 @@
-# CS 576 Programming Assignment 1
-## TCP Client-Server Application
+# TCP Client-Server Application
 
 **Language:** Python 3
 
